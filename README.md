@@ -8,7 +8,7 @@
 <p>
   <a href="https://github.com/chanoo"><img src="https://img.shields.io/badge/GitHub-chanoo-181717?style=for-the-badge&logo=github" /></a>
   &nbsp;
-  <a href="www.linkedin.com/in/chanoonyein"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/chanoonyein"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 </div>
