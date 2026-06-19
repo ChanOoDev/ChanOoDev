@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="36" height="36" /> Hi, I'm Chan Oo
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="36" height="36" /> Hi, I'm Nyein Chan Oo
 
 ### Senior Software Engineer • Singapore 🇸🇬
 
