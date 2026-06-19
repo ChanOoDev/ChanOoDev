@@ -6,7 +6,7 @@
 ### Senior Software Engineer • Singapore 🇸🇬
 
 <p>
-  <a href="https://github.com/chanoo"><img src="https://img.shields.io/badge/GitHub-chanoo-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ChanOoDev"><img src="https://img.shields.io/badge/GitHub-ChanOoDev-181717?style=for-the-badge&logo=github" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/chanoonyein"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
@@ -134,12 +134,12 @@ Senior Software Engineer with deep expertise in building scalable, cloud-native 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChanOoDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanOoDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanoo&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanOoDev&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 ---
@@ -172,11 +172,11 @@ Senior Software Engineer with deep expertise in building scalable, cloud-native 
 
 <p>
 
-  <a href="https://github.com/chanoo">
-    <img src="https://img.shields.io/badge/GitHub-chanoo-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/ChanOoDev">
+    <img src="https://img.shields.io/badge/GitHub-ChanOoDev-181717?style=for-the-badge&logo=github" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-handle">
+  <a href="https://www.linkedin.com/in/chanoonyein">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
@@ -186,7 +186,7 @@ Senior Software Engineer with deep expertise in building scalable, cloud-native 
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=chanoo&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ChanOoDev&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>
 
 ---
