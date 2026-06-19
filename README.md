@@ -186,7 +186,7 @@ Senior Software Engineer with deep expertise in building scalable, cloud-native 
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ChanOoDev&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ChanOoDev.ChanOoDev&right_color=blueviolet" alt="Profile views" />
 </p>
 
 ---
