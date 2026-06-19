@@ -1,32 +1,28 @@
 {
-  "name": "thmsgbrt",
-  "version": "1.0.0",
-  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
+  "name": "chanoo",
+  "version": "2.0.0",
+  "description": "A modern, professional GitHub Profile README — powered by GitHub Actions and Mustache.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thmsgbrt/thmsgbrt.git"
+    "url": "git+https://github.com/chanoo/chanoo.git"
   },
   "keywords": [
     "readme.md",
     "github",
     "actions",
-    "dynamic",
-    "javascript"
+    "portfolio"
   ],
-  "author": "Thomas Guibert",
+  "author": "Chan Oo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thmsgbrt/thmsgbrt/issues"
+    "url": "https://github.com/chanoo/chanoo/issues"
   },
-  "homepage": "https://github.com/thmsgbrt/thmsgbrt#readme",
+  "homepage": "https://github.com/chanoo/chanoo#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "mustache": "^4.0.1",
-    "node-fetch": "^2.6.1",
-    "puppeteer": "^5.1.0"
+    "mustache": "^4.0.1"
   }
 }
